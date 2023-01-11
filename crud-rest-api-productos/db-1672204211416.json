@@ -1,0 +1,67 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Tablet",
+      "contenido": "Android",
+      "peso": "25464564565",
+      "color": "Blanco y negro",
+      "cantidad": "4425345345",
+      "descripcion": "Tablet xiami sistema operativo andoid"
+    },
+    {
+      "id": 3,
+      "nombre": "Balon-decuero de futball",
+      "contenido": "Cuero",
+      "peso": "25645",
+      "color": "Azul",
+      "cantidad": "654566",
+      "descripcion": "Balón de cuero de la mas alta calidad"
+    },
+    {
+      "id": 4,
+      "nombre": "Muse-nogro",
+      "contenido": "Articulo tecnologico",
+      "peso": 1,
+      "color": "Negro",
+      "cantidad": 3,
+      "descripcion": "Mouse inalámbrico de batería recargable "
+    },
+    {
+      "id": 5,
+      "nombre": "Computadora",
+      "contenido": "Window 11",
+      "peso": "35654654",
+      "color": "Gris",
+      "cantidad": "46456",
+      "descripcion": "Computadora window 11"
+    },
+    {
+      "id": 6,
+      "nombre": "Mesa De lujo",
+      "contenido": "croptonita-importada",
+      "peso": 478,
+      "color": "mate",
+      "cantidad": 1,
+      "descripcion": "Mesa, Pieza .Art-987-787"
+    },
+    {
+      "id": 7,
+      "nombre": "Carro ferrary",
+      "contenido": "Carro de lujo",
+      "peso": "101415",
+      "color": "Red",
+      "cantidad": 1,
+      "descripcion": "Carro de alto rendimiento motor mustang"
+    },
+    {
+      "nombre": "Perfume Importado",
+      "contenido": "Aceite de coco",
+      "peso": "300",
+      "color": "Transparente",
+      "cantidad": "500",
+      "descripcion": "Perfumes importados de la mejor calidad y precio",
+      "id": 1671906980915
+    }
+  ]
+}
